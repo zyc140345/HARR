@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.idea/
+trl/
+llama_index/
+data/
+figures/
+result/
+scripts/litellm/
+scripts/litellm/config.yaml
+test.py
+AGENTS.md

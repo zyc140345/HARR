@@ -47,7 +47,8 @@ This repository contains the official implementation for the work
 
 ## Environment Setup
 ```shell
-git clone https://github.com/zyc140345/HARR.git && cd HARR
+wget https://anonymous.4open.science/api/repo/HARR-CF32/zip -O HARR.zip
+unzip -d HARR HARR.zip && cd HARR
 
 # step1: create conda env
 conda create -n harr python=3.11 && conda activate harr
